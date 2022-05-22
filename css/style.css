@@ -1,0 +1,97 @@
+#wrapper{
+    margin: auto;
+    width: 1520px;
+    height: 1200px;
+    _background: yellow;
+}
+
+h1{
+    text-align: center;
+    width: 1520px;
+    font-size: 70px;
+    font-family: 'Delius Unicase', cursive;
+}
+
+#canvas{
+    border: solid 8px black;
+    margin: auto;
+    background: rgb(76, 165, 48);
+    margin-bottom: 20px;
+};
+
+#iconcontainer{
+    width: 1520px;
+    _background: red;
+    height: 90px;
+    margin: auto;
+    float: left
+}
+
+#eins
+{
+    height: 100px;
+    width: 300px;
+    _background: violet;
+    float: left;
+}
+
+#apple{
+    margin-right: 10px;
+    _background: palevioletred;
+    float: left
+}
+
+#counter{
+    width: 70px;
+    margin-right: 60px;
+    font-family: 'Delius Unicase', cursive;
+    font-size: 40px;
+    height: 50px;
+    margin-top: 10px;
+    _background: red;
+    float: left
+}
+
+#zwei
+{
+    height: 100px;
+    width: 400px;
+    float: left;
+}
+
+#zeit{
+    margin-right: 10px;
+    float: left
+}
+
+#timer{
+    margin-right: 100px;
+    height: 50px;
+    margin-top: 10px;
+    font-family: 'Delius Unicase', cursive;
+    font-size: 40px;
+    width: 70px;
+    float: left
+}
+
+#drei
+{
+    height: 100px;
+    width: 800px;
+    float: left;
+}
+
+#newgame{
+    float: left;
+    margin-right: 370px;
+    margin-left: 20px;
+}
+
+#start{
+    margin-right: 170px;
+    float: left;
+}
+
+#sound{
+    _background: blue;
+}
